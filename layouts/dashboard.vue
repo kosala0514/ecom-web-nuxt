@@ -1,7 +1,6 @@
 <template>
   <div>
     <MainNavBar/>
-    <MainCarousel/>
     <Nuxt/>
   </div>
 </template>
@@ -12,6 +11,3 @@
   }
 </script>
 
-<style>
-
-</style>
